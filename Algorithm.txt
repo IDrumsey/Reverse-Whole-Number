@@ -1,0 +1,6 @@
+1. Find how many digits there are
+
+2. Loop for each digit
+	num%10 gets you whatever is in the 1's place --> add this * 10^(counter-iteration) to the answer
+
+3. return result and print
